@@ -1,0 +1,29 @@
+.mission{
+    margin-top:100px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.partitions{
+    height: 150vh;
+}
+
+.partition_stats{
+    vertical-align:top;
+    display:inline-block;
+    background-color: #00bcff;
+    width: 65%;
+    height: 100%;
+    
+}
+.partition_charities{
+    vertical-align:top;
+    display: inline-block;
+    background-color: #006f64;
+    width: 35%;
+    height: 100%
+
+}
+
+
+
